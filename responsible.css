@@ -1,0 +1,10 @@
+@media only screen and (max-width:596px) {
+    .first-section h1{
+
+        font-size: 50px;
+        
+    }
+    .second-section h1{
+        font-size: 50px;
+    }
+}
